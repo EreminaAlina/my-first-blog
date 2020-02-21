@@ -1,2 +1,3 @@
 admin
 adminpass
+https://github.com/EreminaAlina/my-first-blog.git
